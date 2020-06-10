@@ -46,6 +46,10 @@ form {
   font-family: helvetica, arial, sans-serif;
 }
 
+img:hover {
+  background-color: gold;
+}
+
 /*****CLASS********/
 .cat_sexy_1 {
   background-color: #264653;
