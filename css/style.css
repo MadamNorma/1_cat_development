@@ -1,0 +1,46 @@
+body {
+  background-color: #f4f4f4
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+  width: 5%;
+  border-color: #cf7500;
+}
+
+h1 {
+  color: #cf7500;
+  font-family: helvetica, arial, sans-serif;
+}
+
+h3 {
+  color: #cf7500;
+  font-family: helvetica, arial, sans-serif;
+}
+
+p {
+  color: #222831;
+  font-family: helvetica, arial, sans-serif;
+}
+
+ul {
+  color: #222831;
+  font-family: helvetica, arial, sans-serif;
+}
+
+ol {
+  color: #222831;
+  font-family: helvetica, arial, sans-serif;
+}
+
+table {
+  color: #222831;
+  font-family: helvetica, arial, sans-serif;
+}
+
+form {
+  color: #222831;
+  font-family: helvetica, arial, sans-serif;
+}
